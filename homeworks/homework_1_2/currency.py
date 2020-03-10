@@ -20,8 +20,8 @@ class Money:
             return Money(self.value + other, self.currency)
         elif isinstance(other, Money):
             if other.currency is None and self.currency is None:
-                raise TypeError
-            
+                raise TypeError("Both operands doesn't have currency")
+
             if self.currency != other.currency:
                 new_value = self.value + \
                             other.value * table[other.currency] / table[self.currency]
@@ -36,6 +36,9 @@ class Money:
         if isinstance(other, (int, float)):
             return Money(self.value - other, self.currency)
         elif isinstance(other, Money):
+            if other.currency is None and self.currency is None:
+                raise TypeError("Both operands doesn't have currency")
+
             if self.currency != other.currency:
                 new_value = self.value - \
                             other.value * table[other.currency] / table[self.currency] 

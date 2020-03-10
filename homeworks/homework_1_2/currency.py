@@ -13,7 +13,7 @@ class Money:
         self.currency = currency.upper()
 
     def __add__(self, other):
-        if isinstance(other, int) or isinstance(other, float):
+        if isinstance(other, (int, float)):
             return Money(self.value + other, self.currency)
         elif isinstance(other, Money):
             if self.currency != other.currency:
@@ -27,7 +27,7 @@ class Money:
                             f"'{type(self).__name__}' and '{type(other).__name__}'")
 
     def __sub__(self, other):
-        if isinstance(other, int) or isinstance(other, float):
+        if isinstance(other, (int, float)):
             return Money(self.value - other, self.currency)
         elif isinstance(other, Money):
             if self.currency != other.currency:

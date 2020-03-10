@@ -1,12 +1,15 @@
-table = {'RUB': 10, 'USD': 1, 'JPN': 2, 'KZN': 3, 'BLR': 45}
+table = {'RUB': 1, 'USD': 67.5175, 'JPY': 63.777, 'KZT': 17.6482, 'BYN': 30.1592}
 
 class Money:
     def __init__(self, value, currency=None):
         self.value = value
 
-        if currency.upper() not in table:
+        if currency is None:
+            self.currency = None
+        elif currency.upper() not in table:
             raise KeyError
-        self.currency = currency.upper()
+        else:
+            self.currency = currency.upper()
 
     def convert(self, currency):
         self.value *= table[currency.upper()] / table[self.currency]
@@ -16,9 +19,12 @@ class Money:
         if isinstance(other, (int, float)):
             return Money(self.value + other, self.currency)
         elif isinstance(other, Money):
+            if other.currency is None and self.currency is None:
+                raise TypeError
+            
             if self.currency != other.currency:
                 new_value = self.value + \
-                            other.value * table[self.currency] / table[other.currency]
+                            other.value * table[other.currency] / table[self.currency]
             else:
                 new_value = self.value + other.value
             return Money(new_value, self.currency)
@@ -32,7 +38,7 @@ class Money:
         elif isinstance(other, Money):
             if self.currency != other.currency:
                 new_value = self.value - \
-                            other.value * table[self.currency] / table[other.currency] 
+                            other.value * table[other.currency] / table[self.currency] 
             else:
                 new_value = self.value - other.value
             return Money(new_value, self.currency)

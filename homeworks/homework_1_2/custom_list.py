@@ -1,8 +1,8 @@
 class CustomList(list):
     def __sub__(self, other):
         if not isinstance(other, CustomList):
-            raise TypeError(f"unsupported operand type(s) for -: \
-                            '{type(self).__name__}' and '{type(other).__name__}'")
+            raise TypeError("unsupported operand type(s) for -:" \
+                            f"'{type(self).__name__}' and '{type(other).__name__}'")
 
         max_len = max(len(self), len(other))
         min_len = min(len(self), len(other))
@@ -11,8 +11,8 @@ class CustomList(list):
 
     def __add__(self, other):
         if not isinstance(other, CustomList):
-            raise TypeError(f"unsupported operand type(s) for +: \
-                            '{type(self).__name__}' and '{type(other).__name__}'")
+            raise TypeError("unsupported operand type(s) for +:" \
+                            f"'{type(self).__name__}' and '{type(other).__name__}'")
 
         max_len = max(len(self), len(other))
         min_len = min(len(self), len(other))

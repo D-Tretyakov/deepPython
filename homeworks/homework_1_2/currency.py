@@ -19,8 +19,17 @@ class Money:
         if isinstance(other, (int, float)):
             return Money(self.value + other, self.currency)
         elif isinstance(other, Money):
-            if other.currency is None and self.currency is None:
-                raise TypeError("Both operands doesn't have currency")
+            if other.currency is None:
+                if self.currency is None:
+                    raise TypeError("Both operands doesn't have currency")
+                else:
+                    return Money(self.value + other.value, self.currency)
+            
+            if self.currency is None:
+                if other.currency is None:
+                    raise TypeError("Both operands doesn't have currency")
+                else:
+                    return Money(self.value + other.value, other.currency)
 
             if self.currency != other.currency:
                 new_value = self.value + \
@@ -36,8 +45,17 @@ class Money:
         if isinstance(other, (int, float)):
             return Money(self.value - other, self.currency)
         elif isinstance(other, Money):
-            if other.currency is None and self.currency is None:
-                raise TypeError("Both operands doesn't have currency")
+            if other.currency is None:
+                if self.currency is None:
+                    raise TypeError("Both operands doesn't have currency")
+                else:
+                    return Money(self.value - other.value, self.currency)
+            
+            if self.currency is None:
+                if other.currency is None:
+                    raise TypeError("Both operands doesn't have currency")
+                else:
+                    return Money(self.value - other.value, other.currency)
 
             if self.currency != other.currency:
                 new_value = self.value - \

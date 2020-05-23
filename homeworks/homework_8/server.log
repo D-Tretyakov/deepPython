@@ -1,0 +1,184 @@
+2020-05-20 17:01:13,253 — root — ERROR — download:227 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 17:01:23,884 — root — ERROR — download:227 — (http://google.com) HTTP Error: 429
+2020-05-20 17:01:25,391 — root — ERROR — download:234 — (http://linkedin.com) connection timeout
+2020-05-20 17:01:25,895 — root — ERROR — download:227 — (http://target.com) HTTP Error: 403
+2020-05-20 17:01:25,993 — root — ERROR — download:227 — (http://homedepot.com) HTTP Error: 403
+2020-05-20 17:01:26,148 — root — ERROR — download:227 — (http://quora.com) HTTP Error: 308
+2020-05-20 17:01:26,603 — root — ERROR — download:227 — (http://quizlet.com) HTTP Error: 403
+2020-05-20 17:01:33,726 — root — ERROR — download:227 — (http://usnews.com) HTTP Error: 403
+2020-05-20 17:01:34,354 — root — ERROR — download:227 — (http://genius.com) HTTP Error: 503
+2020-05-20 17:01:37,476 — root — ERROR — download:227 — (http://lowes.com) HTTP Error: 403
+2020-05-20 17:01:40,250 — root — ERROR — download:234 — (http://bestbuy.com) connection timeout
+2020-05-20 17:01:41,128 — root — ERROR — download:227 — (http://retailmenot.com) HTTP Error: 403
+2020-05-20 17:01:45,664 — root — ERROR — download:227 — (http://macys.com) HTTP Error: 302
+2020-05-20 17:01:55,782 — root — ERROR — download:234 — (http://accuweather.com) connection timeout
+2020-05-20 17:01:56,572 — root — ERROR — download:227 — (http://roblox.com) HTTP Error: 308
+2020-05-20 17:02:01,287 — root — ERROR — download:227 — (http://expedia.com) HTTP Error: 429
+2020-05-20 17:02:10,059 — root — ERROR — download:231 — (http://yellowpages.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 17:04:09,907 — root — ERROR — download:227 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 17:04:19,964 — root — ERROR — download:227 — (http://google.com) HTTP Error: 429
+2020-05-20 17:04:21,740 — root — ERROR — download:227 — (http://target.com) HTTP Error: 403
+2020-05-20 17:04:22,145 — root — ERROR — download:227 — (http://homedepot.com) HTTP Error: 403
+2020-05-20 17:04:22,227 — root — ERROR — download:227 — (http://quora.com) HTTP Error: 308
+2020-05-20 17:04:23,014 — root — ERROR — download:227 — (http://quizlet.com) HTTP Error: 403
+2020-05-20 17:04:23,062 — root — ERROR — download:234 — (http://linkedin.com) connection timeout
+2020-05-20 17:04:29,185 — root — ERROR — download:227 — (http://usnews.com) HTTP Error: 403
+2020-05-20 17:04:30,132 — root — ERROR — download:227 — (http://genius.com) HTTP Error: 503
+2020-05-20 17:04:34,109 — root — ERROR — download:227 — (http://lowes.com) HTTP Error: 403
+2020-05-20 17:04:35,895 — root — ERROR — download:234 — (http://bestbuy.com) connection timeout
+2020-05-20 17:04:38,318 — root — ERROR — download:227 — (http://retailmenot.com) HTTP Error: 403
+2020-05-20 17:04:42,769 — root — ERROR — download:227 — (http://macys.com) HTTP Error: 302
+2020-05-20 17:04:52,302 — root — ERROR — download:234 — (http://accuweather.com) connection timeout
+2020-05-20 17:04:52,416 — root — ERROR — download:227 — (http://roblox.com) HTTP Error: 308
+2020-05-20 17:04:54,780 — root — ERROR — download:227 — (http://expedia.com) HTTP Error: 429
+2020-05-20 17:05:07,154 — root — ERROR — download:231 — (http://yellowpages.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 17:24:55,809 — root — ERROR — download:232 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 17:25:07,094 — root — ERROR — download:232 — (http://google.com) HTTP Error: 429
+2020-05-20 17:25:08,687 — root — ERROR — download:232 — (http://target.com) HTTP Error: 403
+2020-05-20 17:25:09,320 — root — ERROR — download:239 — (http://linkedin.com) connection timeout
+2020-05-20 17:25:09,588 — root — ERROR — download:232 — (http://quora.com) HTTP Error: 308
+2020-05-20 17:25:09,626 — root — ERROR — download:232 — (http://homedepot.com) HTTP Error: 403
+2020-05-20 17:25:09,729 — root — ERROR — download:232 — (http://quizlet.com) HTTP Error: 403
+2020-05-20 17:25:22,951 — root — ERROR — download:239 — (http://bestbuy.com) connection timeout
+2020-05-20 17:45:28,437 — root — ERROR — download:232 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 17:45:39,219 — root — ERROR — download:232 — (http://google.com) HTTP Error: 429
+2020-05-20 17:45:40,750 — root — ERROR — download:239 — (http://linkedin.com) connection timeout
+2020-05-20 18:12:04,806 — root — ERROR — download:238 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 18:12:17,342 — root — ERROR — download:245 — (http://linkedin.com) connection timeout
+2020-05-20 18:17:08,699 — root — ERROR — download:238 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 18:17:20,114 — root — ERROR — download:245 — (http://linkedin.com) connection timeout
+2020-05-20 18:53:20,876 — root — ERROR — download:238 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 18:53:30,088 — root — ERROR — download:245 — (http://linkedin.com) connection timeout
+2020-05-20 18:57:41,621 — root — ERROR — download:238 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 18:57:53,286 — root — ERROR — download:245 — (http://linkedin.com) connection timeout
+2020-05-20 19:01:06,455 — root — ERROR — download:242 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:01:18,243 — root — ERROR — download:249 — (http://linkedin.com) connection timeout
+2020-05-20 19:11:28,045 — root — ERROR — download:242 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:11:40,550 — root — ERROR — download:249 — (http://linkedin.com) connection timeout
+2020-05-20 19:26:42,018 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:26:53,825 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:28:54,260 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:29:06,164 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:30:24,972 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:30:36,707 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:31:39,725 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:31:52,556 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:33:55,540 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:34:07,123 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:35:19,817 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:35:30,307 — root — ERROR — download:243 — (http://google.com) HTTP Error: 429
+2020-05-20 19:35:31,515 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:36:37,997 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:36:50,031 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:37:58,064 — root — ERROR — download:243 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:38:10,039 — root — ERROR — download:250 — (http://linkedin.com) connection timeout
+2020-05-20 19:41:30,336 — root — ERROR — download:170 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:41:40,575 — root — ERROR — download:170 — (http://google.com) HTTP Error: 429
+2020-05-20 19:41:42,438 — root — ERROR — download:177 — (http://linkedin.com) connection timeout
+2020-05-20 19:41:44,409 — root — ERROR — download:170 — (http://target.com) HTTP Error: 403
+2020-05-20 19:41:45,433 — root — ERROR — download:170 — (http://quora.com) HTTP Error: 308
+2020-05-20 19:41:45,548 — root — ERROR — download:170 — (http://homedepot.com) HTTP Error: 403
+2020-05-20 19:41:47,992 — root — ERROR — download:170 — (http://quizlet.com) HTTP Error: 403
+2020-05-20 19:42:04,085 — root — ERROR — download:170 — (http://usnews.com) HTTP Error: 403
+2020-05-20 19:42:04,727 — root — ERROR — download:177 — (http://bestbuy.com) connection timeout
+2020-05-20 19:42:04,866 — root — ERROR — download:170 — (http://genius.com) HTTP Error: 503
+2020-05-20 19:42:09,400 — root — ERROR — download:170 — (http://lowes.com) HTTP Error: 403
+2020-05-20 19:42:17,433 — root — ERROR — download:170 — (http://retailmenot.com) HTTP Error: 403
+2020-05-20 19:42:26,003 — root — ERROR — download:170 — (http://macys.com) HTTP Error: 302
+2020-05-20 19:42:31,183 — root — ERROR — download:174 — (http://steamcommunity.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,185 — root — ERROR — download:174 — (http://chase.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,187 — root — ERROR — download:174 — (http://wellsfargo.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,188 — root — ERROR — download:174 — (http://npr.org) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,189 — root — ERROR — download:174 — (http://apartments.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,190 — root — ERROR — download:174 — (http://roblox.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,191 — root — ERROR — download:174 — (http://huffpost.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,192 — root — ERROR — download:174 — (http://books.google.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,195 — root — ERROR — download:174 — (http://bankofamerica.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,196 — root — ERROR — download:174 — (http://bbb.org) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,199 — root — ERROR — download:174 — (http://expedia.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,201 — root — ERROR — download:174 — (http://wikihow.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:31,203 — root — ERROR — download:174 — (http://ign.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:42:32,431 — root — ERROR — download:177 — (http://accuweather.com) connection timeout
+2020-05-20 19:42:48,770 — root — ERROR — download:174 — (http://yellowpages.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:27,251 — root — ERROR — download:170 — (http://pinterest.com) HTTP Error: 308
+2020-05-20 19:52:36,338 — root — ERROR — download:174 — (http://apple.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,340 — root — ERROR — download:174 — (http://espn.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,341 — root — ERROR — download:174 — (http://webmd.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,342 — root — ERROR — download:174 — (http://fb.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,343 — root — ERROR — download:174 — (http://nytimes.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,344 — root — ERROR — download:174 — (http://google.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,345 — root — ERROR — download:174 — (http://cnn.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,346 — root — ERROR — download:174 — (http://merriam-webster.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,347 — root — ERROR — download:174 — (http://gamepedia.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,348 — root — ERROR — download:174 — (http://microsoft.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,350 — root — ERROR — download:174 — (http://target.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,351 — root — ERROR — download:174 — (http://homedepot.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,352 — root — ERROR — download:174 — (http://quora.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,353 — root — ERROR — download:174 — (http://nih.gov) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,354 — root — ERROR — download:174 — (http://rottentomatoes.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,355 — root — ERROR — download:174 — (http://netflix.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,356 — root — ERROR — download:174 — (http://quizlet.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,357 — root — ERROR — download:174 — (http://weather.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,358 — root — ERROR — download:174 — (http://mapquest.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,359 — root — ERROR — download:174 — (http://britannica.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,360 — root — ERROR — download:174 — (http://businessinsider.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,362 — root — ERROR — download:174 — (http://dictionary.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,363 — root — ERROR — download:174 — (http://zillow.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,364 — root — ERROR — download:174 — (http://mayoclinic.org) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,365 — root — ERROR — download:174 — (http://bestbuy.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,366 — root — ERROR — download:174 — (http://theguardian.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,367 — root — ERROR — download:174 — (http://yahoo.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,368 — root — ERROR — download:174 — (http://msn.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,368 — root — ERROR — download:174 — (http://usatoday.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,369 — root — ERROR — download:174 — (http://medicalnewstoday.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,370 — root — ERROR — download:174 — (http://urbandictionary.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,371 — root — ERROR — download:174 — (http://usnews.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,374 — root — ERROR — download:174 — (http://foxnews.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,375 — root — ERROR — download:174 — (http://genius.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,376 — root — ERROR — download:174 — (http://allrecipes.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,378 — root — ERROR — download:174 — (http://spotify.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,379 — root — ERROR — download:174 — (http://glassdoor.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,382 — root — ERROR — download:174 — (http://forbes.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,383 — root — ERROR — download:174 — (http://cnet.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,386 — root — ERROR — download:174 — (http://finance.yahoo.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,389 — root — ERROR — download:174 — (http://irs.gov) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,390 — root — ERROR — download:174 — (http://lowes.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,393 — root — ERROR — download:174 — (http://mail.yahoo.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,394 — root — ERROR — download:174 — (http://aol.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,395 — root — ERROR — download:174 — (http://steampowered.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,397 — root — ERROR — download:174 — (http://washingtonpost.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,400 — root — ERROR — download:174 — (http://indeed.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,401 — root — ERROR — download:174 — (http://usps.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,403 — root — ERROR — download:174 — (http://office.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,405 — root — ERROR — download:174 — (http://wiktionary.org) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,406 — root — ERROR — download:174 — (http://retailmenot.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,409 — root — ERROR — download:174 — (http://foodnetwork.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,410 — root — ERROR — download:174 — (http://paypal.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,411 — root — ERROR — download:174 — (http://hulu.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,413 — root — ERROR — download:174 — (http://cbssports.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,414 — root — ERROR — download:174 — (http://live.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,415 — root — ERROR — download:174 — (http://wayfair.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,417 — root — ERROR — download:174 — (http://bleacherreport.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,418 — root — ERROR — download:174 — (http://ca.gov) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,419 — root — ERROR — download:174 — (http://macys.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,419 — root — ERROR — download:174 — (http://accuweather.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,420 — root — ERROR — download:174 — (http://xfinity.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,422 — root — ERROR — download:174 — (http://go.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,422 — root — ERROR — download:174 — (http://techradar.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,424 — root — ERROR — download:174 — (http://groupon.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,426 — root — ERROR — download:174 — (http://investopedia.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,427 — root — ERROR — download:174 — (http://yellowpages.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,428 — root — ERROR — download:174 — (http://steamcommunity.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,429 — root — ERROR — download:174 — (http://chase.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,429 — root — ERROR — download:174 — (http://wellsfargo.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,431 — root — ERROR — download:174 — (http://apartments.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,431 — root — ERROR — download:174 — (http://npr.org) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,433 — root — ERROR — download:174 — (http://roblox.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,434 — root — ERROR — download:174 — (http://huffpost.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,435 — root — ERROR — download:174 — (http://books.google.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,436 — root — ERROR — download:174 — (http://bankofamerica.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,437 — root — ERROR — download:174 — (http://bbb.org) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,438 — root — ERROR — download:174 — (http://expedia.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,439 — root — ERROR — download:174 — (http://wikihow.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:36,441 — root — ERROR — download:174 — (http://ign.com) Failed to reach a server: [Errno -2] Name or service not known
+2020-05-20 19:52:38,824 — root — ERROR — download:177 — (http://linkedin.com) connection timeout

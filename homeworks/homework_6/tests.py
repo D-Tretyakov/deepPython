@@ -42,7 +42,7 @@ class Tests(unittest.TestCase):
         self.assertEqual(res, [-4266568902960, 2844379268640, -656395215840, 
                                127360265760, -948126422880, 237031605720, 
                                -120185039520, 109399202640, -93770745120, 853313780592])
-        
+
     def test_random(self):
         for i in range(100):
             a = [random.randint(1, 100) for _ in range(10)]

@@ -18,15 +18,16 @@ def mult(array):
         return array
     logging.info('OK')
 
-    logging.info('Calculating values')
-    res = list()
-    for i in range(len(array)):
-        tmp = array[i]
-        array[i] = 1
-        product = reduce(lambda x, y: x*y, array)
-        res.append(product)
-        array[i] = tmp
-        logging.info(f'Product of all elements except {i} is {product}')
+    logging.info('Calculating')
+    n = len(array) 
+    res = [1 for _ in range(n)] 
+    left = right = 1
+    for i in range(n): 
+        res[i] *= left 
+        left *= array[i] 
+    for i in reversed(range(n)): 
+        res[i] *= right 
+        right *= array[i]
     
     logging.info('Finishing')
     return res
